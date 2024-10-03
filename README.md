@@ -1,5 +1,5 @@
 
-<h1 align="center">hi 👋, i'm sude im using github 🤑</h1>
+<h1 align="center">hi im using github 🤑</h1>
 <h3 align="center">self-taught developer d:</h3>
 
 <h3 align="left">Connect with me:</h3>
